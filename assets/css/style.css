@@ -1,0 +1,113 @@
+
+body {
+    background-image: url(../images/bigbackground.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    position: relative;
+    padding-bottom: 56px;
+    min-height: 100vh;
+    /* added background color in case image doesn't work */
+    background-color: whitesmoke;
+}
+
+.bg-dark {
+    background-color: #495D66!important;
+}
+
+.btn-dark {
+    background-color: #495D66!important;
+}
+
+.navName {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 30px;
+}
+
+.headerPages {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    padding-top: 3%;
+    padding-left: 3%;
+} 
+
+h5 {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    text-align: center;
+}
+
+h6 {
+    color: #343a40;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+
+.otherText, p {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.container {
+    padding-bottom: 40px;
+}
+
+.borderRadius {
+    border-radius: 25px;
+}
+
+.bottom {
+    padding-bottom: 10px;
+}
+
+.col-md-10 {
+    background-color: #c9d3df;
+}
+
+/* Picture only used in about page */
+.profile-pic {
+    float: left; 
+    margin-right: 3%; 
+    margin-bottom: 1%;
+}
+
+.portfolio-pics {
+        padding: 3%; 
+}
+
+.projectPic {
+    display: block;
+    margin: auto;
+    padding-bottom: 2%;
+}
+
+.linkCenter {
+    text-align: center;
+}
+
+.contactText {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.contactCenter {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.linkButtons {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+footer {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
