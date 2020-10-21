@@ -58,6 +58,10 @@ h6 {
     border-radius: 25px;
 }
 
+/* .imageRadius {
+    border-radius: 10px;
+} */
+
 .bottom {
     padding-bottom: 10px;
 }
@@ -80,11 +84,13 @@ h6 {
 .projectPic {
     display: block;
     margin: auto;
-    padding-bottom: 2%;
+    border-radius: 10px;
+    /* padding-bottom: 2%; */
 }
 
 .linkCenter {
     text-align: center;
+    margin-top: 2%;
 }
 
 .contactText {
