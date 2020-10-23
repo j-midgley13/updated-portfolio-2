@@ -38,7 +38,7 @@ This assignment was fun to go back and look at past code to improve upon it. I h
 
 * [Link to repository on GitHub](https://github.com/j-midgley13/updated-portfolio-2)  
 
-* [Link to deployed Website](https://immense-taiga-97479.herokuapp.com/)  
+* [Link to deployed Website](https://j-midgley13.github.io/updated-portfolio-2/)  
 
 ## Screenshots  
 
